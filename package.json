@@ -1,0 +1,8 @@
+{
+  "name": "per-pie-bebidas",
+  "version": "1.0.0",
+  "dependencies": {
+    "mercadopago": "^1.5.16",
+    "@supabase/supabase-js": "^2.0.0" 
+  }
+}
